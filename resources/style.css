@@ -1,0 +1,19 @@
+button {
+    background-color: rgba(90, 197, 90, 0.541);
+    border-radius: 5rem;
+
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    color: gray;
+}
+
+.header_fixed {
+    position: fixed;
+    left: 0;
+    top: 0;
+}
